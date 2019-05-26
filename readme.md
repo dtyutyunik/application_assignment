@@ -26,6 +26,13 @@ The finished project:
 
 Please include the url to your forked repository with the fixed webserver in your application to Inclusion's program.
 
+## Instructions to run code
+
+1. git clone
+2. npm i
+3. node index.js (to start server)
+4. open http://localhost:3000/ in browser and click refresh
+
 ## References
 
 - [Random Movie Quotes NPM Docummentation](https://www.npmjs.com/package/random-movie-quotes)
